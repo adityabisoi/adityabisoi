@@ -8,9 +8,9 @@ axios.get('https://api.github.com/users/adityabisoi/followers')
 function printData(followerData) {
     fs.readFile(__dirname + '/template.ejs', (err, data) => {
         if (err) throw err
-        const output = ejs.render(data.toString(), {
+        const writeData = ejs.render(data.toString(), {
             followers: followerData
         })
-        fs.writeFileSync('README.md', output);
+        fs.writeFileSync('README.md', writeData);
     })
 }
