@@ -52,9 +52,10 @@
         src="https://avatars0.githubusercontent.com/u/43968121?v=4" width=65px /></a>  <a href="https://github.com/hrushikesh-git"><img
         src="https://avatars0.githubusercontent.com/u/65762074?v=4" width=65px /></a>  <a href="https://github.com/Chirag321ratvekar"><img
         src="https://avatars0.githubusercontent.com/u/44314055?v=4" width=65px /></a>  <a href="https://github.com/FAIZ113"><img
-        src="https://avatars0.githubusercontent.com/u/60294451?v=4" width=65px /></a> 
+        src="https://avatars0.githubusercontent.com/u/60294451?v=4" width=65px /></a>  <a href="https://github.com/subhangi2731"><img
+        src="https://avatars0.githubusercontent.com/u/53938490?v=4" width=65px /></a> 
 
 -----------
 <p align="center">This <b>README</b> file is updated every <b>15 minutes!</b><br>If you have followed me just now, you will be featured here shortly! 😀</p>
 
-<!-- <br>Last updated ⏲ <i>10/4/2020, 1:28:25 PM</i> -->
+<!-- <br>Last updated ⏲ <i>10/4/2020, 3:45:08 PM</i> -->
