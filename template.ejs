@@ -1,4 +1,7 @@
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Page
+
+[![README build](https://github.com/adityabisoi/adityabisoi/workflows/README%20build/badge.svg)](https://github.com/adityabisoi/adityabisoi/actions)
+
 ### I'm Aditya Bisoi, a Full Stack Web Developer 🚀 currently based in India
 
 <p align="center">
