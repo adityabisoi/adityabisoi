@@ -51,5 +51,5 @@
         src="https://avatars0.githubusercontent.com/u/44314055?v=4" width=100px /></a>  <a href="https://github.com/FAIZ113"><img
         src="https://avatars0.githubusercontent.com/u/60294451?v=4" width=100px /></a> 
 
-----------------------------
+-----------
 <p align="center">This <b>README</b> file is updated every <b>15 minutes!</b><br>If you have followed me just now, you will be featured here shortly! 😀</p>
