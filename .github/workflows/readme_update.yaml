@@ -17,7 +17,7 @@ jobs:
         echo "Test push commit to the remote in the workflow" >> test.txt
 
         git config --global user.name "Aditya Bisoi"
-        git config --global user.email "adityabisoi@users.noreply.github.com"
+        git config --global user.email "adityabisoi1999@gmail.com"
 
         git add -A
         git commit -m "Update test.txt"
