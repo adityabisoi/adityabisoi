@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Send greeting
-      run: echo "Hello ${{ github.event.inputs.name }}"
+    - uses: actions/checkout@v2
     - name: Test update to repo
       run: |
         echo "Test push commit to the remote in the workflow" >> test.txt
