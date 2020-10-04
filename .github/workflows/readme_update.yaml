@@ -22,7 +22,6 @@ jobs:
       run: node index
     - name: Test update to repo
       run: |
-        echo "Test push commit to the remote in the workflow" >> test.txt
 
         git config --global user.name "Aditya Bisoi"
         git config --global user.email "adityabisoi1999@gmail.com"
