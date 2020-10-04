@@ -48,13 +48,13 @@
 
 ## My Followers
  <a href="https://github.com/satwikn07"><img
-        src="https://avatars1.githubusercontent.com/u/45070931?v=4" width=100px /></a>  <a href="https://github.com/arteevraina"><img
-        src="https://avatars0.githubusercontent.com/u/43968121?v=4" width=100px /></a>  <a href="https://github.com/hrushikesh-git"><img
-        src="https://avatars0.githubusercontent.com/u/65762074?v=4" width=100px /></a>  <a href="https://github.com/Chirag321ratvekar"><img
-        src="https://avatars0.githubusercontent.com/u/44314055?v=4" width=100px /></a>  <a href="https://github.com/FAIZ113"><img
-        src="https://avatars0.githubusercontent.com/u/60294451?v=4" width=100px /></a> 
+        src="https://avatars1.githubusercontent.com/u/45070931?v=4" width=65px /></a>  <a href="https://github.com/arteevraina"><img
+        src="https://avatars0.githubusercontent.com/u/43968121?v=4" width=65px /></a>  <a href="https://github.com/hrushikesh-git"><img
+        src="https://avatars0.githubusercontent.com/u/65762074?v=4" width=65px /></a>  <a href="https://github.com/Chirag321ratvekar"><img
+        src="https://avatars0.githubusercontent.com/u/44314055?v=4" width=65px /></a>  <a href="https://github.com/FAIZ113"><img
+        src="https://avatars0.githubusercontent.com/u/60294451?v=4" width=65px /></a> 
 
 -----------
 <p align="center">This <b>README</b> file is updated every <b>15 minutes!</b><br>If you have followed me just now, you will be featured here shortly! 😀</p>
 
-<!-- <br>Last updated ⏲ <i>10/4/2020, 1:26:06 PM</i> -->
+<!-- <br>Last updated ⏲ <i>10/4/2020, 1:28:25 PM</i> -->
