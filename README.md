@@ -56,6 +56,6 @@
         src="https://avatars0.githubusercontent.com/u/53938490?v=4" width=65px /></a> 
 
 -----------
-<p align="center">This <b>README</b> file is updated every <b>15 minutes!</b><br>If you have followed me just now, you will be featured here shortly! 😀</p>
+<p align="center">This <b>README</b> file is updated every <b>1 hour!</b><br>If you have followed me just now, you will be featured here shortly! 😀</p>
 
-<!-- <br>Last updated ⏲ <i>10/5/2020, 1:27:16 PM</i> -->
+<!-- <br>Last updated ⏲ <i>10/5/2020, 1:32:34 PM</i> -->
