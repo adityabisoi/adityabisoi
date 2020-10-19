@@ -4,6 +4,10 @@
 
 ### I'm Aditya Bisoi, a Full Stack Web Developer 🚀 currently based in India
 
+<p align="center">
+    <img src="https://media.giphy.com/media/1JduApoDuoMuCGdP6s/giphy.gif"  width="400px"/>
+</p>
+
 ## Things I Code With
 <p>
     <img
@@ -40,11 +44,6 @@
             src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://gitlab.com/adityabisoi/"><img
             src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-</p>
-
-
-<p align="center">
-    <img src="https://media.giphy.com/media/1JduApoDuoMuCGdP6s/giphy.gif" />
 </p>
 
 <!-- ## My Followers
