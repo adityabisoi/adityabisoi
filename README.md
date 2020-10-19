@@ -46,7 +46,7 @@
             src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
 
-## My Followers
+<!-- ## My Followers
  <a href="https://github.com/satwikn07"><img
         src="https://avatars1.githubusercontent.com/u/45070931?v=4" width=65px /></a>  <a href="https://github.com/arteevraina"><img
         src="https://avatars0.githubusercontent.com/u/43968121?v=4" width=65px /></a>  <a href="https://github.com/hrushikesh-git"><img
