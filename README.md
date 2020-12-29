@@ -45,6 +45,8 @@
             src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </div>
 <div align="center">
+<img src="./test.svg" width="100px">
+
 <br> 
 <img src="./dock.jpg" width="80%">
 </div>
