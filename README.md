@@ -46,7 +46,7 @@
 </div>
 <div align="center">
 <br> 
-<img src="./dock.jpg" width="80%">
+<img src="./dock.jpg" width="80%" height="40px">
 </div>
 
 
