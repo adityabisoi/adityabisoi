@@ -1,15 +1,16 @@
-# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Page
+<img src="./menubar.png" width="100%">
 
-<!-- [![README build](https://github.com/adityabisoi/adityabisoi/workflows/README%20build/badge.svg)](https://github.com/adityabisoi/adityabisoi/actions)-->
-
-### I'm Aditya Bisoi, a Full Stack Web Developer 🚀 currently based in India
-
-<p align="center">
+<div align="center">
+    <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Page <img src="./rocket.gif" height="35px"></h1>
+    <img src="./name.gif" height="40px">
+    <br>
+    <img src="./work.gif" width="500px">
+    <br><br>
     <img src="https://media.giphy.com/media/1JduApoDuoMuCGdP6s/giphy.gif"  width="400px"/>
-</p>
+</div>
 
-## Things I Code With
-<p>
+<div align="center">
+<h4>Things I Code With</h4>
     <img
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img
@@ -33,29 +34,20 @@
         src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 
-</p>
-
-## Other Platforms
-
-<p>
+</div>
+<div align="center">
+<h4>Other Platforms</h4>
     <a href="https://www.linkedin.com/in/adityabisoi/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@adityabisoi1999"><img
             src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://gitlab.com/adityabisoi/"><img
             src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-</p>
+</div>
+<div align="center">
+<br> 
+<img src="./dock.jpg" width="80%">
+</div>
 
-<!-- ## My Followers
- <a href="https://github.com/satwikn07"><img
-        src="https://avatars1.githubusercontent.com/u/45070931?v=4" width=65px /></a>  <a href="https://github.com/arteevraina"><img
-        src="https://avatars0.githubusercontent.com/u/43968121?v=4" width=65px /></a>  <a href="https://github.com/hrushikesh-git"><img
-        src="https://avatars0.githubusercontent.com/u/65762074?v=4" width=65px /></a>  <a href="https://github.com/Chirag321ratvekar"><img
-        src="https://avatars0.githubusercontent.com/u/44314055?v=4" width=65px /></a>  <a href="https://github.com/FAIZ113"><img
-        src="https://avatars0.githubusercontent.com/u/60294451?v=4" width=65px /></a>  <a href="https://github.com/subhangi2731"><img
-        src="https://avatars0.githubusercontent.com/u/53938490?v=4" width=65px /></a> 
 
------------
-<!-- <p align="center">This <b>README</b> file is updated every <b>1 hour!</b><br>If you have followed me just now, you will be featured here shortly! 😀</p> -->
 
-<!-- <br>Last updated ⏲ <i>10/12/2020, 7:04:35 AM</i> -->
