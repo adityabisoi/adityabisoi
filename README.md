@@ -39,7 +39,7 @@
 <h4>Other Platforms</h4>
     <a href="https://www.linkedin.com/in/adityabisoi/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://medium.com/@adityabisoi1999"><img
+    <a href="https://medium.com/@adityabisoi"><img
             src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://gitlab.com/adityabisoi/"><img
             src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
