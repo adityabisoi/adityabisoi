@@ -1,4 +1,4 @@
-<img src="./menubar.png" width="100%">
+<!--  <img src="./menubar.png" width="100%"> -->
 
 <div align="center">
     <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Page <img src="./rocket.gif" height="40px"></h1>
@@ -44,10 +44,10 @@
     <a href="https://gitlab.com/adityabisoi/"><img
             src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </div>
-<div align="center">
+<!-- <div align="center">
 <br> 
 <img src="./dock.jpg" width="80%" height="40px">
-</div>
+</div> -->
 
 
 
