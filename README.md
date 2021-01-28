@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<h4>Things I Code With</h4>
+<h3>I Code With</h3>
     <img
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img
@@ -36,7 +36,7 @@
 
 </div>
 <div align="center">
-<h4>Other Platforms</h4>
+<h3>Other Platforms</h3>
     <a href="https://www.linkedin.com/in/adityabisoi/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@adityabisoi"><img
