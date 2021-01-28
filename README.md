@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<h3>I Code With</h3>
+<h3>Things I Code With</h3>
     <img
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img
