@@ -7,7 +7,7 @@
     <br>
     <img src="./work.gif" width="500px">
     <br><br>
-    <img src="https://media.giphy.com/media/1JduApoDuoMuCGdP6s/giphy.gif"  width="400px"/>
+    <img src="./goblin_slayer.gif"  width="400px"/>
 </div>
 
 <div align="center">
