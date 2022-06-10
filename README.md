@@ -5,7 +5,7 @@
     <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Welcome To My Page <img src="./rocket.gif" height="40px"></h1>
     <img src="./name.gif" height="40px">
     <br>
-    <img src="./work.gif" width="500px">
+    <img src="./work.gif" height="60px">
     <br><br>
     <img src="./goblin_slayer.gif"  width="400px"/>
 </div>
